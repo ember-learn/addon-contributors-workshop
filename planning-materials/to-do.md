@@ -5,8 +5,8 @@
 - [ ] find volunteers. Remember to offer the ticket
 - [ ] Draft pre-workshop email (bring laptop, npm install these things)
 - [ ] Find addon authors who want help
-- [ ] Set a planning meeting
-- [ ] See if Leah needs anything
+- [ ] Set a planning meeting for your co-presenters
+- [ ] See if the host needs anything
 - [ ] Practice
 - [ ] Think through the backup plan
 - [ ] Contact some addon authors for quotes

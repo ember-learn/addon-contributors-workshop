@@ -5,8 +5,8 @@ In this repository, you will find materials that you should download and install
 This will help reduce the wifi burden of many people npm installing at the same time.
 
 ```
-git clone https://github.com/ember-learn/addon-workshop
-cd addon-workshop
+git clone https://github.com/ember-learn/addon-contributors-workshop
+cd addon-contributors-workshop
 yarn install
 ```
 

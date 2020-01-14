@@ -2,8 +2,8 @@
 
 ## Communications
 
-- [ ] find volunteers. Remember to offer the ticket
-- [ ] Draft pre-workshop email (bring laptop, npm install these things)
+- [ ] find volunteers
+- [x] Draft pre-workshop email (bring laptop, npm install these things)
 - [ ] Find addon authors who want help
 - [ ] Set a planning meeting for your co-presenters
 - [ ] See if the host needs anything
@@ -33,9 +33,10 @@
 - [ ] Live code - adding a component
 - [ ] Live code - Using the component in the dummy app
 - [ ] Live code - Writing a test
+- [ ] app vs addon folder
 - [ ] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try
 - [ ] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS
-- [ ] Managing dependencies
+- [ ] Managing dependencies (devDependencies vs dependencies)
 - [ ] Live code - upgrading an app
 - [ ] Live code - what Ember Observer needs
 - [ ] SemVer considerations

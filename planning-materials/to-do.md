@@ -22,6 +22,7 @@
 - [ ] Slides
 - [ ] Written steps
 - [ ] demo addon
+- [ ] nice to have - codesandbox with the addon
 
 ## Presentation
 
@@ -39,6 +40,7 @@
 - [ ] Live code - what Ember Observer needs
 - [ ] SemVer considerations
 - [ ] How to make it easy for addon authors to merge your PR
+- [ ] What is a broccoli
 
 ## Open work time
 

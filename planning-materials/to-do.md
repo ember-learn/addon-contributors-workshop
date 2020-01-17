@@ -36,6 +36,7 @@
 - [ ] app vs addon folder
 - [ ] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try
 - [ ] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS
+- [ ] Making an addon octane-ready
 - [ ] Managing dependencies (devDependencies vs dependencies)
 - [ ] Live code - upgrading an app
 - [ ] Live code - what Ember Observer needs

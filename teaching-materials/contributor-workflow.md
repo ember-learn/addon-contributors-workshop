@@ -31,6 +31,10 @@ TODO
 git push origin my-branch-name
 ```
 
+## Run the tests, and add to them!
+
+## See if you need to update the docs
+
 ## Open a Pull Request
 
 TODO

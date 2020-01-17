@@ -18,3 +18,5 @@ These addons have a backlog of Issues that could use your help! Maybe there's a 
 ## Docs
 
 These addons need some fresh eyes to help fix things that are missing, unclear, or incorrect in the documentation.
+
+## Octane blueprints

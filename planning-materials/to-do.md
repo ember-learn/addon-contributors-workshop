@@ -2,52 +2,48 @@
 
 ## Communications
 
-- [ ] find volunteers
+- [ ] find volunteers who are addon authors (KG)
 - [x] Draft pre-workshop email (bring laptop, npm install these things)
-- [ ] Find addon authors who want help
-- [ ] Set a planning meeting for your co-presenters
+- [ ] Find addon authors who want help (KG & JW)
+- [x] Set a planning meeting for your co-presenters
 - [ ] See if the host needs anything
-- [ ] Practice
-- [ ] Think through the backup plan
+- [ ] Think through the backup plan - have something locally and do mob programming.
 - [ ] Contact some addon authors for quotes
+- [ ] Divide up presentation sections
 
 ## Research
 
-- [ ] What _should_ someone really do to update an addon to Octane?
-- [ ] Pick an activity (addon inventors)
+- [x] What _should_ someone really do to update an addon to Octane?
+- [x] Pick an activity - your favorite addon or something that you wish existed
+- [x] Second warmup - quick Q&A
 
 ## Materials
 
-- [ ] List of possible addons
-- [ ] Slides
-- [ ] Written steps
-- [ ] demo addon
-- [ ] nice to have - codesandbox with the addon
+- [ ] List of possible addons (JW + KG add to a google doc)
+- [ ] Slides (JW will do this in Google Slides)
+- [ ] Written steps (JW)
+- [ ] Record some live-coding
 
 ## Presentation
-
-- [ ] Who are addon authors?
-- [ ] What is it like to be an addon maintainer?
-- [ ] Why are addons so important?
-- [ ] Live code - linking an addon
-- [ ] Live code - adding a component
-- [ ] Live code - Using the component in the dummy app
-- [ ] Live code - Writing a test
-- [ ] app vs addon folder
-- [ ] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try
-- [ ] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS
-- [ ] Managing dependencies (devDependencies vs dependencies)
-- [ ] Live code - upgrading an app
-- [ ] Live code - what Ember Observer needs
+- [ ] Opening Q&A - why did you want to come to an addon workshop?
+- [ ] Some kind of warmup to get people's attention
+- [ ] Quotes from addon maintainers/creators
+- [ ] Why are addons so important? (1 sentence)
+- [ ] 5 min coding video of how to work with an addon locally - varies by audience whether we show it (run the dummy app, linking locally)
+- [ ] app vs addon folder (3 sentences)
+- [ ] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try, ci config, tests
+- [ ] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS. Make sure to mention polyfills go in dependencies, not devDependencies, and one sentence on why
+- [ ] What Ember Observer needs and looks for
 - [ ] SemVer considerations
-- [ ] How to make it easy for addon authors to merge your PR
-- [ ] What is a broccoli
-- [ ] Documentation patterns (addon docs, dummy app, etc)
 
 ## Open work time
 
+- [ ] Your favorite addon or something you wish existed! No repeats or anything we previously mentioned
 - Choose an addon from the list or add one (Google Doc with live editing?)
 - Run the tests locally
 - Run the dummy app
 - Try to close an issue, and ask for help if you need it, work with others!
 - When you are done, add a link to your PR to the google doc
+
+## Final prep
+- [ ] each volunteer/presenter downloads an addon that needs work, and install, in case we have no wifi and need to do the backup plan. i.e. could also revert work that you did recently and walk through the steps again

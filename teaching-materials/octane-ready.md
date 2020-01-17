@@ -15,6 +15,6 @@
 
 - native classes are fine
 - no implicit this
-- Angle Brackets codemods (make sure the addon has dropped support for 3.3, which is when it was added. Or, add polyfill)
+- Angle Brackets codemods (make sure the addon has dropped support for 3.3, which is when it was added. Or, add polyfill in `dependencies`)
 - ES5 getters codemod (can only do this one if you haven't already run native classes codemod)
 - You can run the Native Classes codemod if preferred

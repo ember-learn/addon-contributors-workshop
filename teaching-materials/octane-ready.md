@@ -42,3 +42,19 @@ You can:
 - Run the Native Classes codemod, and write components and other files using Native Class JavaScript syntax
 - Use `this.` in your templates, to get rid of linting warnings about "no-implicit-this."
 - Run Angle Brackets codemods. If the addon still supports version 3.3 or earlier, install the polyfill.
+
+## What is a polyfill?
+
+A polyfill is a general term for some code that allows you to use a feature found in a later version of a library than the version you are using.
+Polyfills exist all over the web.
+For example, let's say a web developer wants to use a feature supported by Firefox, but it isn't yet available in Safari. If there's a polyfill, the developer can install it in their app, and both Firefox and Safari users have a good experience.
+
+So why are polyfills important in Ember? One of the highlights of the Ember addon ecosystem is that many addons are backwards compatible! Many addons work fine even if the addon is on a higher version of Ember than the app that is using it. An addon may be using features that aren't available in an earlier version of Ember, but yet it is still backwards-compatible thanks to polyfills.
+
+There are many free, open source polyfills, but it is up to the addon contributors to install them, based on the versions of Ember apps that they aim to support.
+
+One way to tell that your addon needs a polyfill is by using the `ember-try` feature of addon testing suites. `ember-try` will run your addon tests in other versions of Ember. If a particular scenario (i.e. version) fails, that is your clue that you may need to install a polyfill.
+
+Some common polyfills include:
+
+TODO

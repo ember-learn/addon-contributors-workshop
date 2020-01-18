@@ -55,6 +55,6 @@ There are many free, open source polyfills, but it is up to the addon contributo
 
 One way to tell that your addon needs a polyfill is by using the `ember-try` feature of addon testing suites. `ember-try` will run your addon tests in other versions of Ember. If a particular scenario (i.e. version) fails, that is your clue that you may need to install a polyfill.
 
-Some common polyfills include:
+<!-- Some common polyfills include:
 
-TODO
+TODO -->

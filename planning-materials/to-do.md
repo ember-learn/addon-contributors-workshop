@@ -21,20 +21,23 @@
 
 - [ ] List of possible addons (JW + KG add to a google doc)
 - [ ] Slides (JW will do this in Google Slides)
-- [ ] Written steps (JW)
+- [x] Written steps for Octane-ready addons (JW)
+- [x] Written steps for PRing to an addon (JW)
+- [ ] finish up TODOs
+- [ ] Review of written resources
 - [ ] Record some live-coding
 
 ## Presentation
-- [ ] Opening Q&A - why did you want to come to an addon workshop?
-- [ ] Some kind of warmup to get people's attention
+- [x] Opening Q&A - why did you want to come to an addon workshop?
+- [x] Some kind of warmup to get people's attention
 - [ ] Quotes from addon maintainers/creators
-- [ ] Why are addons so important? (1 sentence)
-- [ ] 5 min coding video of how to work with an addon locally - varies by audience whether we show it (run the dummy app, linking locally)
-- [ ] app vs addon folder (3 sentences)
-- [ ] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try, ci config, tests
-- [ ] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS. Make sure to mention polyfills go in dependencies, not devDependencies, and one sentence on why
-- [ ] What Ember Observer needs and looks for
-- [ ] SemVer considerations
+- [x] Why are addons so important? (1 sentence)
+- [x] 5 min coding video of how to work with an addon locally - varies by audience whether we show it (run the dummy app, linking locally)
+- [x] app vs addon folder (3 sentences)
+- [x] Tour of common areas of an addon to pay attention to: index.js, package.json, ember-try, ci config, tests
+- [x] Making an addon backwards compatible, aka "What is a polyfill" and the important role of LTS. Make sure to mention polyfills go in dependencies, not devDependencies, and one sentence on why
+- [x] What Ember Observer needs and looks for
+- [x] SemVer considerations
 
 ## Open work time
 

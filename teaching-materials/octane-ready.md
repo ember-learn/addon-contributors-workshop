@@ -51,6 +51,16 @@ For example, let's say a web developer wants to use a feature supported by Firef
 
 So why are polyfills important in Ember? One of the highlights of the Ember addon ecosystem is that many addons are backwards compatible! Many addons work fine even if the addon is on a higher version of Ember than the app that is using it. An addon may be using features that aren't available in an earlier version of Ember, but yet it is still backwards-compatible thanks to polyfills.
 
+### Using Polyfills
+
+To install a polyfill:
+
+```
+npm install polyfill-name
+```
+
+It is importany that polyfills go in the `dependencies` section of your package.json, not `devDependencies`! Things in `devDependencies` aren't available to the apps that use your addon.
+
 There are many free, open source polyfills, but it is up to the addon contributors to install them, based on the versions of Ember apps that they aim to support.
 
 One way to tell that your addon needs a polyfill is by using the `ember-try` feature of addon testing suites. `ember-try` will run your addon tests in other versions of Ember. If a particular scenario (i.e. version) fails, that is your clue that you may need to install a polyfill.

@@ -4,7 +4,7 @@ This document will walk you through the steps that many contributros take when w
 
 ## Fork, download, install
 
-From the [addon's page on GitHub](https://github.com/ember-learn/addon-contributors-workshop), click the "Fork" button in the top corner.
+From the addon's page on GitHub, click the "Fork" button in the top corner.
 This will create your own fork (your own copy) of the addon. This is where you will be doing your work. From the fork page, now you can copy the link to clone the repo, just like you normally would:
 
 ```sh

@@ -31,7 +31,7 @@ Thanks for signing up for the Addon Contributors' Workshop! In this email, you w
 
 ### Preparation
 
-Please download the workshop materials before you arrive. You can find them at [https://github.com/ember-learn/addon-workshop](https://github.com/ember-learn/addon-workshop). Follow the README on that page to get started. This workshop is intended for developers of all experience levels, so if you need any help, please ask!
+Please go through the prerequisites at [https://github.com/ember-learn/emberjs-contributors-workshop](https://github.com/ember-learn/emberjs-contributors-workshop) to set up your developer environment. Follow the README on that page to get started. This workshop is intended for developers of all experience levels, so if you need any help, please ask!
 
 ### The day of the workshop
 

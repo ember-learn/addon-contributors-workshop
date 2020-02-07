@@ -1,20 +1,19 @@
 # Addon contributors workshop
 
 Thanks for participating in the Ember.js Addon Contributor's workshop!
-In this repository, you will find materials that you should download and install today.
-This will help reduce the wifi burden of many people npm installing at the same time.
 
-```
-git clone https://github.com/ember-learn/addon-contributors-workshop
-cd addon-contributors-workshop
-yarn install
-```
+First, make sure you have Node and [`npm`](https://www.npmjs.com/get-npm) installed.
 
-If you do not yet have yarn, you can install it like this:
+Then, if you do not have yarn, you can install it like this:
 
 ```
 npm install -g yarn
 ```
+
+You will also need the following set up:
+- A GitHub account (they are free!)
+- git installed
+- ember-cli installed
 
 If you are new to JavaScript or any of the above is confusing, please contact your workshop facilitators. They are happy to help you get started!
 

@@ -19,7 +19,7 @@ If your addon does not need to work for older versions of Ember, such as an addo
 - May optionally use jQuery, if it is installed with the `@ember/jquery` package and used like `import $ from '@ember/jquery'`
 - Does _not_ use `this.$` or `Ember.$`. These are known as jQuery integration APIs.
 - Has `ember-try.js` tests for all active LTS (long term support) versions of Ember, plus versions 3.13 and higher
-- If it uses Observers, they are marked `aysnc: true`, and the addon includes the async observers polyfill
+- If it uses Observers, they are marked `sync: false`, and the addon includes the async observers polyfill
 - May optionally use the latest versions of `ember-source`, `ember/data`, etc. in its `package.json` 
 
 To be very clear, if you use any features from `@glimmer`, template-only components, or template co-location, apps with versions <3.15 will not be able to use your addon!

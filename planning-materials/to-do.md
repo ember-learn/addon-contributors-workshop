@@ -10,6 +10,7 @@
 - [ ] Think through the backup plan - have something locally and do mob programming.
 - [ ] Contact some addon authors for quotes
 - [ ] Divide up presentation sections
+- [ ] Send the pre-workshop survey - Have you ever written an addon? Have you ever contributed to an addon?
 
 ## Research
 
